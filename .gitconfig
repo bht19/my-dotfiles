@@ -1,0 +1,8 @@
+[user]
+    name = DevEx Candidate
+    email = devex-demo@ericsson.com
+[color]
+    ui = auto
+[alias]
+    st = status
+    co = checkout
